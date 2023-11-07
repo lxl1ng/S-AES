@@ -1,2 +1,9 @@
-# S-AES
-Implementation of S-AES algorithm based on Python and tk.
+
+# README
+
+
+## 1.仓库简述
+***信息安全导论小组作业：实现S-AES算法。***
+
+## 2.仓库内容
+***完成基于python语言的S-DES加密算法的简单实现，然后用tk库搭建简单的GUI界面，支持用户进行交互。***

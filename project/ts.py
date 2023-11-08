@@ -86,7 +86,7 @@ def middle_attack(plaintext, ciphertext):
             print('key2:' + key2)
 
 
-middle_attack(plaintext, ciphertext)
+#middle_attack(plaintext, ciphertext)
 
 
 # CBC工作模式

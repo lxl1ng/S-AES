@@ -86,7 +86,7 @@ def middle_attack(plaintext, ciphertext):
             print('key2:' + key2)
 
 
-#middle_attack(plaintext, ciphertext)
+# middle_attack(plaintext, ciphertext)
 
 
 # CBC工作模式
@@ -106,7 +106,7 @@ def rondom_iv():
 
 
 iv = '1001100000111111'
-print('iv:' + iv)
+# print('iv:' + iv)
 
 
 def CBC_work_encrypt(plaintext, key):
